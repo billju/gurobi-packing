@@ -4,6 +4,7 @@
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/problem-description.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/constraint.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/figure.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet1.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet2.png)
 ### 數學式-變數
