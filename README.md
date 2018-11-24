@@ -1,4 +1,12 @@
 # gurobi-packing 棧板上裝箱最佳化
+![](https://github.com/billju/gurobi-packing/blob/master/slides/object.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/object-math.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/problem-description.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/constraint.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/figure.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet1.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet2.png)
+### 數學式
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/variable.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/object.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c1.png)
