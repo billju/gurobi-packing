@@ -6,9 +6,11 @@
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/figure.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet1.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet2.png)
-### 數學式
+### 數學式-變數
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/variable.png)
+### 數學式-目標式
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/object.png)
+### 數學式-限制式
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c1.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c2.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c3.png)
