@@ -5,8 +5,6 @@
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/constraint.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/figure.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/.png)
-![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet1.png)
-![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet2.png)
 ### 數學式-變數
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/variable.png)
 ### 數學式-目標式
@@ -23,3 +21,6 @@
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c9.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c10.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c11.png)
+### 結果示意圖(未加入灰底數學式的結果)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet1.png)
+![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet2.png)
