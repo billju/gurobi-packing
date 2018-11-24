@@ -21,6 +21,8 @@
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c9.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c10.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/math-expression/c11.png)
-### 結果示意圖(未加入灰底數學式的結果)
+### 終端機
+![](https://github.com/billju/gurobi-packing/blob/master/slides/terminal.png)
+### 示意圖(未加入灰底強調的數學式)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet1.png)
 ![](https://github.com/billju/gurobi-packing/blob/master/slides/pallet2.png)
